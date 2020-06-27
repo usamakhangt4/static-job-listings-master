@@ -1,0 +1,25 @@
+{
+  "name": "static-job-listings-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamakhangt4/static-job-listings-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamakhangt4/static-job-listings-master/issues"
+  },
+  "homepage": "https://github.com/usamakhangt4/static-job-listings-master#readme"
+}
